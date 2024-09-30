@@ -1,2 +1,3 @@
 # LightReplacer
-An app that rename files, translate, and more.
+Um aplicativo que renomeia programas.
+Com tradução e mais!
