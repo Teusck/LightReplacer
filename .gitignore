@@ -1,0 +1,11 @@
+# Ignore build outputs
+bin/
+obj/
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Dotnet artifacts
+*/bin/
+*/obj/
